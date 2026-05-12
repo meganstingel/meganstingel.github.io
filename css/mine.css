@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+#cantread {
+	background-color: rgba(43,222,195,.7);
+	padding: 30px;
+}
+#email {
+	color: #000;
+	text-decoration: none;
+	}
